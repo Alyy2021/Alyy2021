@@ -56,7 +56,7 @@
 
 ###
 
-<h5 align="left">Samples from my projects</h5>
+<h3 align="left">Samples from my projects</h3>
 
 ###
 
