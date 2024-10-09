@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">- Information Technology Spaciest<br>- E-Learning Software Engineering<br>- Mobil Developer<br>- Apple Verified Developer</h3>
+<h3 align="left">- Information Technology Spaciest<br>- E-Learning Software Engineering<br>- Mobil Apps Developer<br>- Apple Verified Developer</h3>
 
 ###
 
