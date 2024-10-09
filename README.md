@@ -36,7 +36,22 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/ali-bayoumi-150254153/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
 <h5 align="left">Samples from my projects</h5>
+
+###
+
+<h4 align="left">Sokr Banat<br><br> سكر بنات اول تطبيق في بنها لبيع وتداول الحجاب ومكملات الحجاب والشيميز والبندات اللبنات <br>يتيح التطبيق خدمة استعراض كولكشن ضخم من المنتجات والطلب الاونلين ومتابعة المنتجات حتي الوصول <br><br>https://github.com/Alyy2021/sokr_banat</h4>
 
 ###
 
@@ -45,9 +60,5 @@
 ###
 
 <h4 align="left">Oncology System<br><br>هوا نظام لعمل ارشيف كامل لكل مرضي الاورام متضمن رحلة العلاج والاشاعات والجلسات الكيمائية والاشاعيعة بواستخراج بيانات عن كل مريض وربط المرضي جميعا بكود يمكن البحث عنهم في اي وقت النظام يحوي اكثر من ثلاثة ألاف مريض بكل المعلومات الخاصة بهم <br>وايضا لكل مستخدم صلاحية خاصة <br>- Access Database Engine</h4>
-
-###
-
-<h4 align="left">Sokr Banat<br><br> سكر بنات اول تطبيق في بنها لبيع وتداول الحجاب ومكملات الحجاب والشيميز والبندات اللبنات <br>يتيح التطبيق خدمة استعراض كولكشن ضخم من المنتجات والطلب الاونلين ومتابعة المنتجات حتي الوصول <br><br>https://github.com/Alyy2021/sokr_banat</h4>
 
 ###
