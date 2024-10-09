@@ -1,8 +1,8 @@
-<p align="left">Hi 👋, I'm Ali Bayoumi</p>
+<h1 align="left">Hi 👋, I'm Ali Bayoumi</h1>
 
 ###
 
-<p align="left">- Information Technology Spaciest<br>- E-Learning Software Engineering<br>- Mobil Developer<br>- Apple Verified Developer</p>
+<h3 align="left">- Information Technology Spaciest<br>- E-Learning Software Engineering<br>- Mobil Developer<br>- Apple Verified Developer</h3>
 
 ###
 
@@ -32,11 +32,11 @@
 
 ###
 
-<p align="left">Contact with me on 📝<br><br>Personal email : semor2013@gmail.com</p>
+<h4 align="left">Contact with me on 📝<br><br>Personal email : semor2013@gmail.com</h4>
 
 ###
 
-<p align="left">Samples from my projects</p>
+<h5 align="left">Samples from my projects</h5>
 
 ###
 
