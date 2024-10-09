@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
@@ -42,6 +44,10 @@
 
 ###
 
-<p align="left">Sokr Banat<br><br> سكر بنات اول تطبيق في بنها لبيع وتداول الحجاب ومكملات الحجاب والشيميز والبندات اللبنات <br>يتيح التطبيق خدمة استعراض كولكشن ضخم من المنتجات والطلب الاونلين ومتابعة المنتجات حتي الوصول <br><br>https://github.com/Alyy2021/sokr_banat</p>
+<h4 align="left">Onco Syeysteam<br><br>هوا نظام لعمل ارشيف كامل لكل مرضي الاورام متضمن رحلة العلاج والاشاعات والجلسات الكيمائية والاشاعيعة بواستخراج بيانات عن كل مريض وربط المرضي جميعا بكود يمكن البحث عنهم في اي وقت النظام يحوي اكثر من ثلاثة ألاف مريض بكل المعلومات الخاصة بهم <br>وايضا لكل مستخدم صلاحية خاصة <br>- Access Database Engine</h4>
+
+###
+
+<h4 align="left">Sokr Banat<br><br> سكر بنات اول تطبيق في بنها لبيع وتداول الحجاب ومكملات الحجاب والشيميز والبندات اللبنات <br>يتيح التطبيق خدمة استعراض كولكشن ضخم من المنتجات والطلب الاونلين ومتابعة المنتجات حتي الوصول <br><br>https://github.com/Alyy2021/sokr_banat</h4>
 
 ###
