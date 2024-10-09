@@ -84,7 +84,7 @@
 
 ###
 
-<h5 align="left">App Store Developer Distributor</h5>
+<h5 align="left">App Store Developer Distributor<br>https://lnkd.in/dZpmWtCN</h5>
 
 ###
 
