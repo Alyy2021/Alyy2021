@@ -92,6 +92,6 @@
 
 ###
 
-<p align="left">E-Learning System Configuration</p>
+<p align="left">E-Learning Systems Engineering <br><br>- Preparing and installing educational and academic programs for students<br>- More than five years in managing educational systems for students<br>- Classrooms online system<br>- Online Exam software programs<br>- Regulatory systems for intermediate study of universities</p>
 
 ###
