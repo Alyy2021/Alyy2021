@@ -68,7 +68,7 @@
 
 ###
 
-<h4 align="left">Oncology System<br><br>هوا نظام لعمل ارشيف كامل لكل مرضي الاورام متضمن رحلة العلاج والاشاعات والجلسات الكيمائية والاشاعيعة بواستخراج بيانات عن كل مريض وربط المرضي جميعا بكود يمكن البحث عنهم في اي وقت النظام يحوي اكثر من ثلاثة ألاف مريض بكل المعلومات الخاصة بهم <br>وايضا لكل مستخدم صلاحية خاصة <br>- PHP Or Access Database Engine<br>- Users Permissions<br>- Generated Reports<br><br>With High Technology :- <br>https://shorturl.at/cIAqp<br>user : admin@admin.com<br>password : 12345678<br><br>Mediam Technology :-</h4>
+<h4 align="left">Oncology System<br><br>هوا نظام لعمل ارشيف كامل لكل مرضي الاورام متضمن رحلة العلاج والاشاعات والجلسات الكيمائية والاشعاعية بواستخراج بيانات عن كل مريض وربط المرضي جميعا بكود يمكن البحث عنهم في اي وقت النظام يحوي اكثر من ثلاثة ألاف مريض بكل المعلومات الخاصة بهم <br>وايضا لكل مستخدم صلاحية خاصة <br>- PHP Or Access Database Engine<br>- Users Permissions<br>- Generated Reports<br><br>With High Technology :- <br>https://shorturl.at/cIAqp<br>user : admin@admin.com<br>password : 12345678<br><br>Mediam Technology :-</h4>
 
 ###
 
@@ -94,6 +94,6 @@
 
 ###
 
-<p align="left">E-Learning Systems Engineering <br><br>- Preparing and installing educational and academic programs for students<br>- More than five years in managing educational systems for students<br>- Classrooms online system<br>- Online Exam software programs<br>- Regulatory systems for intermediate study of universities</p>
+<h4 align="left">E-Learning Systems Engineering <br><br>- Preparing and installing educational and academic programs for students<br>- More than five years in managing educational systems for students<br>- Classrooms online system<br>- Online Exam software programs<br>- Regulatory systems for intermediate study of universities</h4>
 
 ###
