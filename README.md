@@ -88,7 +88,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img height="300" src="https://firebasestorage.googleapis.com/v0/b/soker-banat.appspot.com/o/App%20Store.png?alt=media&token=9c209d77-7952-4edd-a28a-10a75f84b57b"  />
 </div>
 
